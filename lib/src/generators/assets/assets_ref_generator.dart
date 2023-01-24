@@ -4,8 +4,8 @@ import 'dart:io';
 
 import 'package:sprintf/sprintf.dart';
 import 'package:unlimited_things_dart/unlimited_things_dart.dart';
-import 'package:unlimited_tools/core/utils/assert.dart';
-import 'package:unlimited_tools/processes/dart_format.dart';
+import 'package:unlimited_tools/src/core/utils/assert.dart';
+import 'package:unlimited_tools/src/processes/dart_format.dart';
 
 class AssetsRefGenerator {
   static const assetsFieldTemplate = '\tstatic const %s = %s;';
