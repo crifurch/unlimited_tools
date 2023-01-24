@@ -33,6 +33,7 @@ class AssetsRefGenerator {
       'add assets to assets folder',
       'run command again',
     ]);
+    this.assetsRoot = this.assetsRoot.absolute;
 
     filePath = path.pathEncoded;
 

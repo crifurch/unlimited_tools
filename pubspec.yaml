@@ -1,6 +1,6 @@
 name: unlimited_tools
-description: A sample command-line application.
-version: 0.1.0
+description: command line tools for some templated generation in your projects
+version: 0.1.1
 homepage: https://github.com/crifurch/unlimited_tools
 
 environment:
